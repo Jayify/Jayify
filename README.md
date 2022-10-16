@@ -1,16 +1,20 @@
-### Hi there 👋
+<h1>Hey! I'm Jayden</h1>
 
-<!--
-**Jayify/Jayify** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>Welcome to my page! 
+<br>
+<br>
+I'm a student at the Nelson Marlborough Institute of Technology, learning web, software and database development.
+<br>
+<br>
+This is my school account. You can find my personal account here -> <a href="https://github.com/Jayden-Htn">School GitHub</a>
 
-Here are some ideas to get you started:
+<h3>I code mostly with:</h3>
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>JavaScript</li>
+  <li>Python</li>
+  <li>SQL</li>
+</ul>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>Check out more here -> <a href="https://jayden-htn.github.io/WEB503-A2-22/src/home/home.html">My Website</a><h3>
