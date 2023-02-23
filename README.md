@@ -17,4 +17,4 @@ This is my school account. You can find my personal account here -> <a href="htt
   <li>SQL</li>
 </ul>
 
-<h3>Check out more here -> <a href="https://jayden-htn.github.io/WEB503-A2-22/src/home/home.html">My Website</a><h3>
+<h3>Check out more here -> <a href="https://jayify.github.io/Portfolio-Website/src/home/home.html">My Website</a><h3>
