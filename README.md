@@ -17,5 +17,3 @@ This is my personal account. You can find my school account here -> <a href="htt
   <li>JavaScript</li>
   <li>SQL</li>
 </ul>
-
-<h3>Check out more here -> <a href="https://jayify.github.io/Portfolio-Website/src/home/home.html">My Website</a><h3>
