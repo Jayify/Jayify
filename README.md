@@ -1,19 +1,25 @@
 <h1>Hey! I'm Jayden</h1>
 
-<p>Welcome to my page! 
+I'm a junior software and web developer. This is my personal account - check out some of my side projects.
 <br>
 <br>
-I'm a student at the Nelson Marlborough Institute of Technology, majoring in web and software development.
+You can find my school account here -> <a href="https://github.com/Jayden-Htn">School GitHub</a>
 <br>
 <br>
-This is my personal account. You can find my school account here -> <a href="https://github.com/Jayden-Htn">School GitHub</a>
+Note: the majority of my commits are on work accounts or private repos.
+<br>
+<br>
 
-<h3>I code mostly with:</h3>
+I focus primarily on software and web development:
 <ul>
-  <li>Python</li>
-  <li>C#</li>
+  <li>C# .NET</li>
+  <li>Entity Frameworm Core</li>
+  <li>JavaScript</li>
+  <li>React</li>
+  <li>JavaScript</li>
+  <li>TypeScript</li>
   <li>HTML</li>
   <li>CSS</li>
-  <li>JavaScript</li>
+  <li>Python</li>
   <li>SQL</li>
 </ul>
