@@ -1,12 +1,16 @@
 <h1>Hey! I'm Jayden</h1>
 
-I'm a junior software and web developer. This is my personal account - check out some of my side projects.
+I'm a junior software and web developer. This is my personal account - check out some of my side projects!
 <br>
 <br>
 You can find my school account here -> <a href="https://github.com/Jayden-Htn">School GitHub</a>
 <br>
 <br>
 Note: the majority of my commits are on work accounts or private repos.
+<br>
+<br>
+
+I am the sole web developer for a Nelson (NZ) based augmented reality heritage project called Post memory NZ, check out the website I built and manage [here](https://www.postmemory.nz/).
 <br>
 <br>
 
